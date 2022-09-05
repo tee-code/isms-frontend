@@ -1,0 +1,7 @@
+.action{
+	cursor: pointer;
+}
+.manage-customer{
+	overflow: auto !important;
+	padding: 0 3px !important;
+}

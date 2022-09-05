@@ -1,0 +1,39 @@
+header.app-header{
+  --theme-color: #003366;
+  background-color: var(--theme-color);
+  color: #f1f1f1;
+  height: 8%;
+  padding: 10px;
+}
+header.app-header img.logo{
+  width: 40px;
+  height: 40px;
+}
+header.app-header span.name{
+  font-size: 14px;
+  font-weight: bold;
+  font-family: cursive;
+  color: white;
+}
+span{
+	padding: 5px;
+}
+
+
+.notification{
+	position: fixed !important;
+	height: 50% !important;
+	overflow: auto;
+	top: 20% !important;
+	left: 35% !important;
+	width: 50% !important;
+	color: var(--theme-color) !important;
+}
+.notification-heading{
+	background-color: var(--theme-color) !important;
+	color: white !important;
+	padding: 5px;
+}
+.close-notification{
+	color: white !important;
+}

@@ -1,0 +1,10 @@
+.action{
+	cursor: pointer;
+}
+.manage-product{
+	overflow: auto !important;
+	padding: 0 8px !important;
+}
+select,input[type = "date"]{
+	width: 100% !important;
+}

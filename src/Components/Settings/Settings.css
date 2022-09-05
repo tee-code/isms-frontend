@@ -1,0 +1,54 @@
+main.settings{
+	background-color: #5ACDB6;
+	height: 84% !important;
+	width: 100%;
+	text-align: center;
+}
+main.settings div.jumbotron{
+	background-color:  #5ACDB6;
+	color: white;
+	padding: 15px !important;
+}
+div.form-park{
+	margin-top: -10px;
+	display: flex;
+	display: -webkit-flex;
+	width: 100%;
+}
+
+p.form-header{
+	background-color: #003366;
+	color: white;
+}
+
+form.company-form{
+	width: 50%;
+	margin-right: 2px;
+}
+form.PhoneNumber{
+	width: 100% !important;
+	display: flex;
+	
+}
+form.PhoneNumber div{
+	width: 50% !important;
+	
+}
+
+form input{
+	margin: 3px 0;
+}
+form input[type="number"], form input[type="text"]{
+	width: 100% !important;
+}
+
+button.save{
+	background-color: #DD4B39;
+	color: white;
+	margin: 7px 0px;
+	box-shadow: 0px 4px 4px grey;
+}
+form.admin-form{
+	width: 50%;
+	margin-left: 2px;
+}

@@ -1,0 +1,11 @@
+
+.action{
+	cursor: pointer;
+}
+.manage-product{
+	overflow: auto !important;
+	padding: 0 8px !important;
+}
+table{
+	font-size: 12px !important;
+}
